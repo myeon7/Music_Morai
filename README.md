@@ -8,7 +8,7 @@ Our project aims to assist the A&R (Artist and Repertoire) team that finds new a
 
 By analyzing the top 2,000 songs of all time on Spotify and identifying trends for upcoming artists, it would be possible to predict and identify artists who will release songs that will be hits in the United States.
 
-Specifically, we’ll investigate:
+Specifically, we investigated on:
 - What indicators (e.g. BPM, key, danceability, energy scores) lead to higher favorability amongst music listeners? 
 - Is there a perfect recipe/formula for a song to be a massive hit?
 - What elements of a song lend itself to a longer lasting popularity throughout the years?
@@ -27,17 +27,17 @@ Specifically, we’ll investigate:
 <br></br>
 
 ## Tech + Libraries
-- Python (Jupyter)
-    - pandas
-    - NumPy
+- **Python** (Jupyter)
+    - **pandas**
+    - **NumPy**
 - Machine Learning
-    - scikit-learn
+    - **scikit-learn**
 - Data Visualization 
-    - Matplotlib 
-    - seaborn
+    - **Matplotlib**
+    - **seaborn**
 - API Connection 
-    - spotipy
-    - ssl
+    - **ssl**
+    - **spotipy**
 <br></br>
 
 ## Context of Dataset
@@ -107,4 +107,3 @@ The author's condition of a track being 'flop' is as follows:
 - **spotipy**: Python module for Spotify's API (https://pypi.org/project/spotipy/)
 - **billboard**: Python module for Billboard's API (https://pypi.org/project/billboard.py/)
 - Spotify, the company itself. For keeping a database of such in-depth details of every track in their library. And for exposing their API for the world to use.
-# Music_Morai
